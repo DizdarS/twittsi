@@ -1,0 +1,5 @@
+This Twitter tool is created for testing purpose only.
+For example:
+ruby twitter_cli.rb -f "targegname",300,5,"myname"
+ruby twitter_cli.rb -u 1,500,7,"myname"
+ruby twitter_cli.rb -m "targetname",600,7,"myname"
